@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__atlassian__getJiraIssue",
+      "Bash(gradle --version)",
+      "Bash(java --version)"
+    ]
+  }
+}
