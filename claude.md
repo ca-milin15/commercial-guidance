@@ -1,3 +1,5 @@
+--General indications
+After executed each task, must be update the JIRA task and leave a summary comment in that JIRA ticket
 --
 Back-end technical design
 --
@@ -12,4 +14,4 @@ Back-end technical design
 
 --
 Front-end technical design:
-- Use angular LTS version 
+- Use scaffolding, one folder by view

@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/user/Documents/DevProjects/Cursos/AICoderVibeCoder/week2/commercial-guidance/front-end/**)",
+      "Bash(npm run *)"
+    ]
+  }
+}
