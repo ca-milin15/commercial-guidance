@@ -5,7 +5,14 @@
       "mcp__atlassian__getJiraIssue",
       "Bash(npm run *)",
       "mcp__atlassian__addCommentToJiraIssue",
-      "Bash(npm start *)"
+      "Bash(npm start *)",
+      "Bash(docker --version)",
+      "Bash(docker info *)",
+      "Bash(docker build *)",
+      "Bash(docker rm *)",
+      "Bash(docker run *)",
+      "mcp__atlassian__getTransitionsForJiraIssue",
+      "mcp__atlassian__transitionJiraIssue"
     ]
   }
 }

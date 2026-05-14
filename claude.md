@@ -1,5 +1,5 @@
 --General indications
-After executed each task, must be update the JIRA task to "IN REVIEW" and leave a spanish summary comment in that JIRA ticket
+After executed each task, must be update the JIRA task to "IN REVIEW" and leave a spanish summary comment including Jira ticket code in that JIRA ticket
 --
 Back-end technical design
 --

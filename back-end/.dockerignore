@@ -1,0 +1,16 @@
+.gradle/
+build/
+.idea/
+.vscode/
+.claude/
+*.iml
+*.iws
+*.ipr
+out/
+HELP.md
+CHANGELOG.md
+README.md
+.git/
+.gitignore
+.DS_Store
+Thumbs.db
