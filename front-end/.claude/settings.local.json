@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__atlassian__getAccessibleAtlassianResources",
+      "mcp__atlassian__getJiraIssue",
+      "Bash(npm run *)",
+      "mcp__atlassian__addCommentToJiraIssue",
+      "Bash(npm start *)"
+    ]
+  }
+}

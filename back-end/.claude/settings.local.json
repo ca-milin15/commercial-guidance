@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Read(//c/Users/user/Documents/DevProjects/Cursos/AICoderVibeCoder/week2/commercial-guidance/front-end/**)",
-      "Bash(npm run *)"
+      "Bash(npm run *)",
+      "mcp__atlassian__addCommentToJiraIssue",
+      "mcp__atlassian__getTransitionsForJiraIssue"
     ]
   }
 }
