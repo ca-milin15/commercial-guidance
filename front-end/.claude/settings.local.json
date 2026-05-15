@@ -12,7 +12,10 @@
       "Bash(docker rm *)",
       "Bash(docker run *)",
       "mcp__atlassian__getTransitionsForJiraIssue",
-      "mcp__atlassian__transitionJiraIssue"
+      "mcp__atlassian__transitionJiraIssue",
+      "Bash(curl -s -w '\\\\nHTTP %{http_code}\\\\n' -X POST http://localhost:8091/api/login -H 'Content-Type: application/json' -d '{\"username\":\"camilo\",\"password\":\"secret\"}')",
+      "Bash(curl -s -w '\\\\nHTTP %{http_code}\\\\n' -X POST http://localhost:8091/api/login -H 'Content-Type: application/json' -d '{\"username\":\"camilo\",\"password\":\"x\"}')",
+      "Bash(curl -s -w '\\\\nHTTP %{http_code}\\\\n' -X POST http://localhost:8091/api/login -H 'Content-Type: application/json' -d '{}')"
     ]
   }
 }

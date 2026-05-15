@@ -10,6 +10,7 @@ Back-end technical design
 - within domain layer you put impl classes related classes that map DB entities.
 - you must use SOLID principles
 - you must apply pattern design on the bussines logic wheter is necessary
+- after you execute a task, you must generate a new version of Docker container
 
 
 --
